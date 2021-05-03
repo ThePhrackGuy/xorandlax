@@ -11,4 +11,4 @@
 
 [![Psycorb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Psycorb&show_icons=true&theme=yeblu)](https://github.com/Psycorb)
 
-
+<img alt="hacker" src="https://media.giphy.com/media/kf4AFwCAYkubSrrSBJ/giphy.gif"/>
