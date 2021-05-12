@@ -6,9 +6,15 @@
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 - 💞️ I’m looking to collaborate on CTF teams, cibersec projects, and everything if was beautifull
-- 📫 If($you == me.liked) --> we can talk in this platforms<br>
+- 📫 If($you.impression == me.liked) --> we can talk in this platforms<br>
 [<img alt="Discord" src="https://img.shields.io/badge/Psycorb-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/AT2CE3EkmG)
 
 [![Psycorb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Psycorb&show_icons=true&theme=yeblu)](https://github.com/Psycorb)
+[![Top Psycorb Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psycorb&layout=compact)](https://github.com/Psycorb)
 
-<img alt="hacker" src="https://media.giphy.com/media/kf4AFwCAYkubSrrSBJ/giphy.gif"/>
+<br>
+<img align="left" width="100" height="300" src="https://media.giphy.com/media/ZETdCfR3SAAhCMDQUf/giphy.gif">
+<img align="right" width="100" height="300" src="https://media.giphy.com/media/ZETdCfR3SAAhCMDQUf/giphy.gif">
+<p align="center">
+  <img width="300" height="300" src="https://media.giphy.com/media/12hjJ7tjzvlQ08/giphy.gif">
+</p>
