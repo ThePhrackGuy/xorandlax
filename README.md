@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Psycorb a high school student for the moment 👀 im interested in web programming, hacking and driver development I want meet other people and contribute to their projects
+- 👋 Hi, I’m @Psycorb a electronic degree student for the moment 👀 im interested in embedded programming, hardware hacking and driver development I want meet other people and contribute to their projects
 - 🌱 I’m currently learning and using this tools<br>
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/> <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
@@ -9,8 +9,8 @@
 - 📫 If($you.impression == me.liked) --> we can talk in this platforms<br>
 [<img alt="Discord" src="https://img.shields.io/badge/Psycorb-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/AT2CE3EkmG)
 
-[![Psycorb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Psycorb&show_icons=true&theme=yeblu)](https://github.com/Psycorb)
-[![Top Psycorb Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psycorb&layout=compact)](https://github.com/Psycorb)
+[![ThePhrackGuy GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePhrackGuy&show_icons=true&theme=yeblu)](https://github.com/ThePhrackGuy)
+[![Top ThePhrackGuy Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePhrackGuy&layout=compact)](https://github.com/ThePhrackGuy)
 
 <br>
 <img align="left" width="100" height="300" src="https://media.giphy.com/media/ZETdCfR3SAAhCMDQUf/giphy.gif">
