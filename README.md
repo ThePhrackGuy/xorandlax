@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Psycorb a electronic degree student for the moment 👀 im interested in embedded programming, hardware hacking and driver development I want meet other people and contribute to their projects
+- 👋 Hi, I’m @ThePhrackGuy a electronic degree student for the moment 👀 im interested in embedded programming, hardware hacking and driver development I want meet other people and contribute to their projects
 - 🌱 I’m currently learning and using this tools<br>
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/> <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
